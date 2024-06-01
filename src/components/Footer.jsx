@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaPlay, FaPause, FaForward, FaBackward, FaVolumeUp } from 'react-icons/fa';
+import { FaPlay, FaForward, FaBackward, FaVolumeUp } from 'react-icons/fa';
 
 const Footer = () => {
   return (
